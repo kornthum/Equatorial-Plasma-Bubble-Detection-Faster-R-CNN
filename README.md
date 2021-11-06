@@ -3,7 +3,7 @@ Equatorial Plasma Bubble Detection using Faster R-CNN
 
 
 This is one of my project in Aeronautical Communication and Navigation course at KMITL.
-There are two machine learning methods included: Faster R-CNN and SVM.
+There are two machine learning methods: Faster R-CNN and SVM, but this repo mainly focuses on Faster R-CNN which is my working part.
 
 Project owner: 1.Kornthum Seetanathum 
                2.Jirayu Sanguanchom
