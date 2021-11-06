@@ -24,5 +24,5 @@ After Dectecting:
 
 -Dowlode-
 
-Data Link: 
+Data Link: https://drive.google.com/drive/folders/1bs94Mfw6-DSTQ249hQzshPJuCwGJkFW7?usp=sharing
 Detector model link: https://drive.google.com/file/d/1QEB5V-2giuZW9CXAsF6AmqL3ebeW9iGR/view?usp=sharing
