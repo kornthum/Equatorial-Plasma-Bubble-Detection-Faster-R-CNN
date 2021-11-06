@@ -22,7 +22,8 @@ After Dectecting:
 ![image](https://user-images.githubusercontent.com/66479775/140593962-06021ca8-9b97-42c3-b8de-ec8dbd226fd4.png)
 
 
--Dowlode-
+-Download-
 
-Data Link: https://drive.google.com/drive/folders/1bs94Mfw6-DSTQ249hQzshPJuCwGJkFW7?usp=sharing
-Detector model link: https://drive.google.com/file/d/1QEB5V-2giuZW9CXAsF6AmqL3ebeW9iGR/view?usp=sharing
+Data: https://drive.google.com/drive/folders/1bs94Mfw6-DSTQ249hQzshPJuCwGJkFW7?usp=sharing
+
+Detector: https://drive.google.com/file/d/1QEB5V-2giuZW9CXAsF6AmqL3ebeW9iGR/view?usp=sharing
